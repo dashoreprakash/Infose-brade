@@ -1,2 +1,2 @@
 # Infose-brade
-its a recreated brand fully resposive wesite 
+its a recreated fully resposive wesite 
