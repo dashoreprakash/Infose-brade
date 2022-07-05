@@ -1,28 +1,28 @@
 @font-face{
-    src: url("./font/bandeins.ttf");
+    src: url("bandeins.ttf");
     font-family: "band";
 }
 
 @font-face{
-    src: url("./font/Aeonik-Regular.ttf");
+    src: url("Aeonik-Regular.ttf");
     font-family: "Aeonik";
     font-weight: 900;
 }
 
 @font-face{
-    src: url("./font/Aeonik-Regular.ttf");
+    src: url("Aeonik-Regular.ttf");
     font-family: "Aeonik";
     font-weight: 500;
 }
 
 @font-face{
-    src: url("./font/Aeonik-Regular.ttf");
+    src: url("Aeonik-Regular.ttf");
     font-family: "Aeonik";
     font-weight: 400;
 }
 
 @font-face{
-    src: url("./font/Aeonik-Light.ttf");
+    src: url("Aeonik-Light.ttf");
     font-family: "Aeonik";
     font-weight: 200;
 }
